@@ -150,7 +150,7 @@ function App() {
   return (
     <div className="container">
       <div className="card text-center">
-        <div className="card-header">Gestión de empleados</div>
+        <div className="card-header">Gestión de empleados MODIFICADO EN VIVO</div>
         <div className="card-body">
           <div className="input-group mb-3">
             <span className="input-group-text">Nombre:</span>
